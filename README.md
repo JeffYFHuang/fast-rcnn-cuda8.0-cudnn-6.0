@@ -3,6 +3,7 @@
 # *Fast* R-CNN: Fast Region-based Convolutional Networks for object detection
 
 Created by Ross Girshick at Microsoft Research, Redmond.
+Upgraded by Jeff Huang to adopt cuda 8.0 and cudnn 6.0 at Taipei, Taiwan, 2017-06-28.
 
 ### Introduction
 
